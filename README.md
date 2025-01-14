@@ -2,7 +2,7 @@
 
 ## Description
 
-This app is a text editor that allows you to edit text in the browser and download the app for o offline use.so you can u edit text anywhere any time.
+This app is a text editor that allows you to edit text in the browser and download the app for offline use.So you can edit text anywhere, anytime, and anyplace.
 
 ## Table of Contents
 
@@ -41,3 +41,5 @@ https://github.com/Alexm415
 ## Links
 
 https://github.com/Alexm415/PWA-Text-Editor
+
+https://pwa-text-editor-e43b.onrender.com/
